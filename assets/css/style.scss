@@ -1,0 +1,103 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Main Background and Text Colors */
+body {
+  background-color: #f4f1ea; /* light beige for a cozy paper-like feel */
+  color: #3d1f1f; /* dark brown for text, easy on the eyes */
+}
+
+/* Links */
+a {
+  color: #8b1a1a; /* deep red for links */
+}
+a:hover {
+  color: #5e0e0e; /* darker red on hover */
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+  color: #3d1f1f; /* dark brown for headers */
+  border-bottom: 2px solid #b23b3b; /* red underline for header separation */
+}
+
+/* Navigation Bar */
+nav {
+  background-color: #8b5e3c; /* warm brown for the navbar */
+  color: #fff; /* white text */
+}
+nav a {
+  color: #fef7ee; /* light beige for links */
+}
+nav a:hover {
+  color: #e8c2c2; /* light red on hover */
+}
+
+/* Footer */
+footer {
+  background-color: #8b5e3c; /* same warm brown for consistency */
+  color: #fef7ee; /* light beige text */
+}
+
+/* Buttons */
+button, .btn {
+  background-color: #8b1a1a; /* deep red for buttons */
+  color: #fff; /* white text */
+  border: 1px solid #3d1f1f; /* dark brown border */
+}
+button:hover, .btn:hover {
+  background-color: #5e0e0e; /* darker red on hover */
+}
+
+/* Sidebar and other sections */
+aside, .post {
+  background-color: #fef7ee; /* light beige for sidebars or posts */
+  border-left: 4px solid #b23b3b; /* red border for accent */
+  padding: 15px;
+}
+
+/* Blockquotes */
+blockquote {
+  color: #3d1f1f; /* dark brown text */
+  border-left: 4px solid #b23b3b; /* red border */
+  background-color: #fef7ee; /* light beige background */
+  padding: 10px;
+}
+
+/* Code blocks */
+code, pre {
+  background-color: #e8c2c2; /* light red background */
+  color: #3d1f1f; /* dark brown text */
+  border-radius: 5px;
+}
+
+/* Tables */
+table {
+  border: 1px solid #3d1f1f; /* dark brown borders */
+  background-color: #fef7ee; /* light beige background */
+  color: #3d1f1f; /* dark brown text */
+}
+
+th {
+  background-color: #8b5e3c; /* warm brown for header rows */
+  color: #fff; /* white text */
+}
+
+td {
+  border: 1px solid #3d1f1f; /* dark brown for table cell borders */
+}
+
+/* Miscellaneous */
+hr {
+  border: 1px solid #b23b3b; /* red horizontal rules */
+}
+
+/* Centered Images */
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%; /* Ensures image doesn't overflow its container */
+}
