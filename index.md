@@ -1,20 +1,36 @@
 # Textual Futures and Generative AI
-**MLA 2025 - Sponsored by the [Electronic Literature Organization](https://eliterature.org/)**
+
+### MLA 2025 - Sponsored by the [Electronic Literature Organization](https://eliterature.org/)
 
 ### [Session 599](https://mla.confex.com/mla/2025/meetingapp.cgi/Session/20163)
+
 ### Saturday, January 11, 2025 - 3:30 PM to 4:45 PM - Hilton Riverside New Orleans - Compass
 
 ![Generated image of a robot author](profcat.png)
 
 *Image generated with DALL-E*
----
 
 **Keywords:** artificial intelligence, electronic literature, software, digital humanities, digital pedagogy
 
 ---
+
 As generative AI is becoming more integrated into our word processors and design tools, the lines between computational and human text are blurrier than ever. Speakers explore the future of software-driven composition, considering the implications for authorship, publishing, editing, and scholarly identity. What does it mean to develop critical AI literacy for scholarship? What does this changing digital landscape both make possible and conceal? This roundtable will feature short talks, followed by discussion.
 
+---
 
+## Panelists
+
+### Presiding: Lai-Tze Fan, U of Waterloo
+
+### Speakers
+
+- Kathi Inman Berens, Portland State University
+- Kavi Duvvoori, University of Waterloo
+- Dana Gavin, Dutchess Community College
+- Alexandre Gefen, Centre National de la Recherche Scientifique
+- Anna Ivanov, Harvard University
+- Anastasia Salter, University of Central Florida
+- Paul Shovlin, Ohio University, Athens
 
 ## Abstracts
 
