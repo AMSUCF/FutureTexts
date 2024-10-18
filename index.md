@@ -1,5 +1,8 @@
 # Textual Futures and Generative AI
-**MLA 2025 - Sponsored by the Electronic Literature Organization**
+**MLA 2025 - Sponsored by the [Electronic Literature Organization](https://eliterature.org/)**
+
+### [Session 599](https://mla.confex.com/mla/2025/meetingapp.cgi/Session/20163)
+### Saturday, January 11, 2025 - 3:30 PM to 4:45 PM - Hilton Riverside New Orleans - Compass
 
 ---
 
@@ -7,6 +10,10 @@
 
 ---
 As generative AI is becoming more integrated into our word processors and design tools, the lines between computational and human text are blurrier than ever. Speakers explore the future of software-driven composition, considering the implications for authorship, publishing, editing, and scholarly identity. What does it mean to develop critical AI literacy for scholarship? What does this changing digital landscape both make possible and conceal?
+
+![Generated image of a robot author](profcat.png)
+
+*Image generated with DALL-E*
 
 ## Abstracts
 
@@ -86,3 +93,7 @@ Drawing on parallels linking our textual futures to textual pasts, this provocat
 ## Presiding
 
 **Lai-Tze Fan** is the Canada Research Chair in Technology and Social Change and Associate Professor at the University of Waterloo, Canada, as well as Professor 2 at the University of Bergen, Norway. She leads The U&AI Lab at UWaterloo, which intervenes in biased Big Tech design by creating alternative resources and methods for AI, with a focus on enhanced EDI outcomes. Fan is an Editor and the Director of Communications of the open-access journals electronic book review and the digital review. Fan is the Editor of recent special journal issues on research-creation, including 2021’s “Critical Making, Critical Design,” which won the ELO’s 2022 N. Katherine Hayles Prize for Criticism.
+
+**Session Sponsored by the [Electronic Literature Organization](https://eliterature.org/)**
+
+![ELO](elo.jpg)
