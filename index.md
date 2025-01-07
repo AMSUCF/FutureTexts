@@ -25,7 +25,7 @@ As generative AI is becoming more integrated into our word processors and design
 ### Speakers
 
 - Kathi Inman Berens, Portland State University
-- Kavi Duvvoori, University of Waterloo
+- ~~Kavi Duvvoori, University of Waterloo~~ (unable to attend)
 - Dana Gavin, Dutchess Community College
 - Alexandre Gefen, Centre National de la Recherche Scientifique
 - Anna Ivanov, Harvard University
@@ -43,19 +43,6 @@ Self-publishing’s massive market is splintered into thousands of microgenres s
 This talk will explore the ways in which electronic literature as a decades-long writing practice sheds light on how AI is reshaping self-publishing authorship, fakery, and generic formulation. Historical context will be provided by applying frameworks from key texts that conceptualize the human/computational writing collaboration as “cyborg” writing (Haraway 1985; Hayles 1999, 2008, 2012; Bousquet 2003; Kirschenbaum 2016 and 2023; Cayley and Howe, 2011 and ff., Rettberg 2023).
 
 **Kathi Inman Berens** is Interim Director of the Book Publishing graduate program and Associate Professor of Publishing and Digital Humanities. She served as part of the editorial collective of the *Electronic Literature Collection Volume 4.* Her work at the intersection of digital platforms, creative writing, and publishing has appeared in venues including *Electronic Book Review, Debates in the Digital Humanities 2019, Hyperrhiz: Journal of New Media,* and *Literary and Linguistic Computing*.
-
----
-
-**Writing, Automating, or Collaborating with Code(s) (in infloresence.city)**
-
-Code writing is a site determining the interactions between computation, society, and text. How we produce, relate to, and use code(s) (performative descriptions of processes, objects, and obligations) will determine whether the systems texts (e.g. contract, program, archive) command are open to dynamic and democratic feedback. Pipkin and Schmidt’s inflorescence.city offers a case study on how these relations may be shaped. 
-
-
-AI proponents suggest literacy in code as well as in writing will become unnecessary as LLMs automatically translate between ordinary language and code(s), and they do change the significance of literacies. Yet, research identifies limitations for transformer models' abilities to reliably write processes according to their prompters intentions or even mathematical specifications. Participatory, sovereign, and plural models for governing data and processes have been investigated by research groups including AI Now, Te Hiku Media, Data and Society, Distributed AI Research, and Indigenous Protocol and Artificial Intelligence, raising questions of scale, ownership, and ecology. Infloresence.city speculatively thematizes as well as enacts this search for plural and dynamic “distributed cognitive assemblages.”
-
-Inflorescence.city’s two intermedia volumes, an almanac and a roguelike game, use widely varied procedures and sources- including news articles and census data- like LLMs yet at a small situated scale. The authors declare “we treated these software processes as honored collaborators rather than as tools. Each has its own texture and tendencies.” The code as well as the text explores what it means to collaborate with symbolic systems, data, computation, the world, and others.
-
-**Kavi Duvvoori** is a PhD candidate at the University of Waterloo in English. Their research in computational rhetoric focuses on the impacts of algorithmic mediation on communication. It includes an empirical study of large textual models abilities to process the form and meaning of rhetorical figures and linguistic constructions in light of human neurocognitive affinities; a study of the assumptions of identity and embodiment in algorithmic voice synthesis in relation to the theories of the elocutionary movement; and a research / creation project drawing on queer media studies to develop tactics that defend plurality, participation, and fluidity in algorithmically mediated language.  
 
 ---
 
