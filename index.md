@@ -4,7 +4,7 @@
 
 ### [Session 599](https://mla.confex.com/mla/2025/meetingapp.cgi/Session/20163)
 
-### Saturday, January 11, 2025 - 3:30 PM to 4:45 PM - Hilton Riverside New Orleans - Compass
+### Saturday, January 11, 2025 - 3:30 PM to 4:45 PM - Hilton Riverside New Orleans - Canal
 
 ![Generated image of a robot author](profcat.png)
 
